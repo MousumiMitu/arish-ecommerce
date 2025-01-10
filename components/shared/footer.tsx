@@ -1,10 +1,9 @@
 "use client";
 import { ChevronUp } from "lucide-react";
 import Link from "next/link";
-import Image from "next/image";
 
 import { Button } from "@/components/ui/button";
-import { APP_NAME } from "@/lib/constants";
+// import { APP_NAME } from "@/lib/constants";
 // import useSettingStore from "@/hooks/use-setting-store";
 // import { Select, SelectContent, SelectItem, SelectTrigger } from "../ui/select";
 

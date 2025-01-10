@@ -4,7 +4,7 @@ import Link from "next/link";
 import Menu from "./menu";
 import Search from "./search";
 import data from "@/lib/data";
-import { APP_NAME } from "@/lib/constants";
+// import { APP_NAME } from "@/lib/constants";
 import { Button } from "@/components/ui/button";
 import { MenuIcon } from "lucide-react";
 
